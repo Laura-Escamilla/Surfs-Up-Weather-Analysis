@@ -17,7 +17,8 @@ We got the following results for the months of June and December about the tempe
 
 With this information we can draw the following conclusions: 
 
-•	The variation in the average temperature is 4 degrees, even for the maximums we can observe that the difference is 3 degrees. 
+•	The variation in the average temperature is 4 degrees, even for the maximums we can observe that the difference is 3 degrees.
+
 •	The biggest difference is evident in the minimum temperatures, where it is observed that in December it can reach 56 degrees while in June to 64. 
 
 From the above we can see that the difference in temperatures is not considerable and that it may be viable to keep the surf and ice cream store open throughout the year, however, before making definitive decisions we could make a couple of more analyzes that give us greater certainty for the opening of the store.
